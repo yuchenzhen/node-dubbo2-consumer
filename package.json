@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "dubbo2.js": "^2.3.8",
-    "koa": "^2.7.0",
-    "koa-bodyparser": "^4.2.1",
-    "koa-json": "^2.0.2",
     "koa-router": "^7.4.0",
     "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "fresh": ">=0.5.2"
   }
 }
