@@ -1,0 +1,19 @@
+{
+  "name": "dubbo-node-client",
+  "version": "1.0.0",
+  "description": "dubbo node client ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "White",
+  "license": "ISC",
+  "dependencies": {
+    "dubbo2.js": "^2.3.8",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
